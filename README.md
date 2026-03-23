@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="logo.png" width="160"/>
+</p>
+
 # Void
-**Mod menu for Minecraft Legacy Console Edition**
+**Mod menu for Minecraft Legacy Console Edition (4J Studios PC port)**
 
 Closed-source. Binary releases only.
 
