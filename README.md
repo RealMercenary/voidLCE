@@ -85,6 +85,14 @@ Closed-source. Binary releases only.
 
 ---
 
+## Support
+
+Void is and will always be free. If you want to support continued development:
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/realmercenary)
+
+---
+
 ## License
 
 Source code is not public. The compiled binary is provided as-is for personal use only.
