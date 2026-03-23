@@ -3,7 +3,7 @@
 </p>
 
 # Void
-**Mod menu for Minecraft Legacy Console Edition (4J Studios PC port)**
+**Mod menu for Minecraft Legacy Console Edition**
 
 Closed-source. Binary releases only.
 
