@@ -3,9 +3,7 @@
 </p>
 
 # Void
-**Mod menu for Minecraft Legacy Console Edition**
-
-Closed-source. Binary releases only.
+**Cheat Client for Minecraft Legacy Console Edition**
 
 ---
 
@@ -99,6 +97,16 @@ Closed-source. Binary releases only.
 Void is and will always be free. If you want to support continued development:
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/realmercenary)
+
+---
+
+## Star History
+
+<p align="center">
+  <a href="https://star-history.com/#realmercenary/Void&Date">
+    <img src="https://api.star-history.com/svg?repos=realmercenary/Void&type=Date" alt="Star History Chart">
+  </a>
+</p>
 
 ---
 
