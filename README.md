@@ -102,11 +102,13 @@ Void is and will always be free. If you want to support continued development:
 
 ## Star History
 
-<p align="center">
- <a href="https://star-history.com/#RealMercenary/voidLCE&Date">
-  <img src="https://api.star-history.com/svg?repos=RealMercenary/voidLCE&type=Date" alt="Star History Chart">
- </a>
-</p>
+<a href="https://www.star-history.com/?repos=RealMercenary%2FvoidLCE&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=RealMercenary/voidLCE&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=RealMercenary/voidLCE&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=RealMercenary/voidLCE&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ---
 
