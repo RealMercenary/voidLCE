@@ -29,6 +29,7 @@
 - EC Breaker — destroys ender chests without a pickaxe
 - Breadcrumbs — draws a colored trail of your movement path
 - Ambience — visual environment tweaks (End Sky, No Fog)
+- CraftingOpacity — adjusts the opacity of the crafting UI overlay (Bugged)
 
 **ESP**
 - PlayerESP — colored boxes and tracers on other players; configurable color, range, show name, show distance, tracer, rainbow mode
@@ -55,6 +56,9 @@
 - ElytraStrafe — mimicks elytra flight (configurable speed and hold key)
 - TPForward — teleports the player forward a configurable distance
 - TPCoords — teleports to exact X/Y/Z coordinates
+- GlideFly — Makes you fly in a fixed Y position
+- UIMove — Allows the player to move while the crafting table gui is open
+- UIRotate — Allows the player to move the camera while the crafting table gui is open
 - AntiAFK — prevents AFK kick by simulating minor movement
 
 **HUD**
@@ -62,6 +66,7 @@
 - Players — live player list with optional server IPs and XYZ coordinates
 - Coordinates — displays current player XYZ on screen
 - Compass — on-screen directional compass
+- Ping — displays current network ping on screen (Bugged)
 
 **Spam**
 - Spam — sends a configurable message in chat at a set interval (configurable delay)
